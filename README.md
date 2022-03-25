@@ -30,8 +30,8 @@
 В данный момент ищу работу по профессии Junior Frontend (React) разработчик с перспективами развития и профессионального роста. Есть желание постоянного профессионального роста и приобретения новых навыков. По образованию экономист, женат, двое детей, занимаюсь спортом, в том числе бегом, люблю читать, но в последнее время большая часть свободного времени уходит на изучение технологий по фронтенду.
 
 ### `Контакты`
-Telegram: [@dar_vetra](https://t.me/dar_vetra)
-Github: [https://github.com/darvetra](https://github.com/darvetra)
+- Telegram: [@dar_vetra](https://t.me/dar_vetra)
+- Github: [https://github.com/darvetra](https://github.com/darvetra)
 
 <!---
 - 👋 Hi, I’m @darvetra
