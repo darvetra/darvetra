@@ -31,6 +31,7 @@
 
 ### `Контакты`
 Telegram: [@dar_vetra](https://t.me/dar_vetra)
+Github: [https://github.com/darvetra](https://github.com/darvetra)
 
 <!---
 - 👋 Hi, I’m @darvetra
