@@ -18,11 +18,14 @@
 - Грамотная кроссбраузерная и адаптивная perfect-pixel верстка по БЭМ
 
 ### `Выполненные проекты`
-- [Device](https://github.com/darvetra/1327065-device-27) – Проект по верстке с использованием HTML и CSS, верстка perfect pixel.
-- [Cat Energy](https://github.com/darvetra/1327065-cat-energy-19) – Проект c адаптивной версткой по БЭМ с использованием HTML, LESS, flex, gulp, webpack.
-- [Kekstagram](https://github.com/darvetra/1327065-kekstagram-22) – Проект на Javascript с использованием nouislider
+- [Escape room](https://github.com/darvetra/escape-room) *(в процессе)* – Проект на React и Typescript, с использованием Redux
 - [What to watch](https://github.com/darvetra/1327065-what-to-watch-8) – Проект на React и Typescript, с использованием Redux
 - [Big Trip](https://github.com/darvetra/1327065-big-trip-15) – Проект на JS, с применением ООП и использованием Babel, chart.is, day.js
+- [Kekstagram](https://github.com/darvetra/1327065-kekstagram-22) – Проект на Javascript с использованием nouislider
+- [Device](https://github.com/darvetra/1327065-device-27) – Проект по верстке с использованием HTML и CSS, верстка perfect pixel.
+- [Cat Energy](https://github.com/darvetra/1327065-cat-energy-19) – Проект c адаптивной версткой по БЭМ с использованием HTML, LESS, flex, gulp, webpack.
+- 
+
 
 ### `Обо мне`
 Нерелевантный опыт работы: более 10 лет в сфере финансов и фондового рынка в крупных российских компаниях и ведущих банках, пробовал себя в предпринимательстве, в начале десятых был опыт создания и администрирования информационных сайтов и интернет-магазина на Joomla, также немного приходилось иметь дело с кодом в то время.
