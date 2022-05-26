@@ -38,7 +38,8 @@
 В данный момент ищу работу по профессии Junior Frontend (React) разработчик с перспективами развития и профессионального роста. Есть желание постоянного профессионального роста и приобретения новых навыков. По образованию экономист, занимаюсь спортом, в том числе бегом, люблю читать, но в последнее время большая часть свободного времени уходит на изучение технологий по фронтенду.
 
 ### `Контакты`
-- Telegram: [@Dar_Vetra](https://t.me/dar_vetra)
+- Telegram: [@Grigoriy_Sapozhnikov](https://t.me/Grigoriy_Sapozhnikov)
+- E-mail: gvsapozhnikov@gmail.com
 - Github: [https://github.com/darvetra](https://github.com/darvetra)
 
 <!---
