@@ -1,6 +1,25 @@
-### Hi there 👋
+👋 Hi all. My name is Grigory, I like coding
+
+## My Scills
+```javascript
+let skills = {
+  language : [Javascript, Typescript],
+  JSFramework : [React],
+  layout: {
+    markup: [HTML],
+    styling: [CSS, SASS, LESS],
+  },
+  stateManagement: [Redux],
+  tests: [Jest],
+  graphicsEditor: [Photoshop, Figma],
+  tools : [Git, Webpack, WebStorm],
+}
+```
 
 <!--
+### Hi there 👋
+
+
 **darvetra/darvetra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
