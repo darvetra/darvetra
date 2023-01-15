@@ -1,4 +1,4 @@
-👋 Hi all. My name is Grigory, I like coding
+👋 Hail all. My name is Greg, I like coding.
 
 ## My Scills
 ```javascript
